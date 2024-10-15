@@ -1,0 +1,13 @@
+body > button{
+    border: none;
+    padding: 20px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    background: linear-gradient(to  top left, pink 20%, lightblue 90%, lightgray 90%);
+}
+
+#close{
+    padding: 30px;
+    background: linear-gradient(to top right, pink 60%, lightgray 100%);
+    border: none;
+}
